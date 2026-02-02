@@ -1,67 +1,83 @@
-# 🧑‍💻Lino Meurer
-**`Data Analyst`**
+# 👋 Olá, eu sou o Lino Meurer
 
-Meu nome é Lino Meurer, tenho 28 anos e sou natural de Santa Catarina. Sou formado em Química pela Universidade Federal de Santa Catarina. Desde minha graduação tenho bastante interesse na area de dados e sigo sempre buscando novos aprendizados.
+🎯 Químico | Qualidade Industrial | Processos Críticos | Dados | IA | Cloud
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-    
-<p align="left">
-    </a> 
-    <a href="https://github.com/Twsman1?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Twsman1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Twsman1?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Twsman1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Profissional com formação em Química pela UFSC e atuação em processos críticos, controle de qualidade, ETA/ETE e melhoria contínua na Coca-Cola FEMSA.  
+Atualmente direcionando minha carreira para **Ciência de Dados, IA aplicada e análise de processos baseada em dados**, unindo indústria + tecnologia.
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+## 🚀 Áreas de Interesse
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+- Ciência de Dados aplicada à indústria
+- Machine Learning e MLOps
+- Otimização de processos com dados
+- Cloud Computing (Azure e AWS)
+- Automação e análise com Excel e Power BI
 
-<br/>
-<br/>
+---
 
+## 🧠 Principais Projetos
+
+### 🔹 DP-100 — Azure Data Scientist Associate
+Estudos práticos focados em:
+- AutoML
+- Pipelines de dados
+- MLOps
+- Gestão de experimentos no Azure ML
+
+**Tecnologias:** Azure Machine Learning, IA no Azure
+
+---
+
+### 🔹 CO2 Calculator
+Calculadora de emissão de carbono por veículo com cálculo automático de distância via API de georreferenciamento.
+
+**Tecnologias:** JavaScript, APIs, GitHub Copilot
+
+---
+
+### 🔹 AWS Sagemaker Canvas — Análise de Estoque
+Projeto de análise preditiva de estoque utilizando IA no Sagemaker Canvas.
+
+**Tecnologias:** AWS, Sagemaker, Análise de Dados com IA
+
+---
+
+### 🔹 SCRUM Master Studies
+Estudos direcionados à certificação SCRUM Master e aplicação prática de metodologias ágeis.
+
+---
+
+## 🛠️ Stack Técnica
+
+**Dados & IA**
+- Excel Avançado
+- Power BI
+- Azure ML
+- AWS Sagemaker
+
+**Qualidade & Processos**
+- BPF
+- ETA / ETE
+- Kaizen, PDCA, Kanban
+- SAP ECC / SAP MII
+
+**Programação**
+- JavaScript
+- Git
+- APIs
+
+---
+
+## 🌍 Idiomas
+- Inglês Fluente
+- Espanhol Intermediário
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/lino-meurer
+- GitHub: https://github.com/Twsman1
+- Email: linom60@gmail.com
